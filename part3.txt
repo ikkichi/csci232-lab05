@@ -1,0 +1,17 @@
+1. what is a pull?
+	when you tell git to fetch from and integrate with another repo or local branch
+
+2. what is a fetch?
+	when you tell git to download objects and refs from anothe repo
+
+3. what is a push?
+	when you tell git to update remote refs along with associated objects
+
+4. what is a branch?
+	an active line of development
+
+5. why use a branch?
+	better version control just in case problematic code pops up or you want to work on multiple new features in parallel without worrying about how it will affect the current master version
+
+6. what does "git status" do?
+	shows the working tree status; the status screen shows which files are "tracked" (files the user has manually added to the index for staging the next commit) and "untracked" (files that haven't been added to the index)
